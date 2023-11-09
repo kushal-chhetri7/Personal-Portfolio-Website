@@ -1,3 +1,3 @@
 # cv
 
-this is  my personal website made using Html, css and JavaScript 
+this is my personal website made using Html, Css and JavaScript 
